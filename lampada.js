@@ -6,15 +6,15 @@ function estaQuebrada(){
 
 function Ligar(){
     if(!estaQuebrada()){
-    lamp.src = 'ligada.svg'}
+    lamp.src = '/Imgs/ligada.svg'}
 }
 
 function Desligar(){
     if(!estaQuebrada()){
-    lamp.src = 'desligada.svg'}
+    lamp.src = '/Imgs/desligada.svg'}
 }
 
 lamp.addEventListener ('click', Quebrar)
 function Quebrar(){
-    lamp.src = 'quebrada.svg'
+    lamp.src = '/Imgs/quebrada.svg'
 }
