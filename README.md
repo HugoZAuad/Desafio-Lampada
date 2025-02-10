@@ -28,3 +28,6 @@ O projeto é composto pelos seguintes arquivos:
 - HTML
 - CSS
 - JavaScript
+
+## Deploy
+- https://desafio-lampada.vercel.app
